@@ -1,0 +1,95 @@
+
+
+h2 {
+    padding: 100px;
+    margin-left: 100px
+}
+
+h3 {
+    padding: 100px;
+    margin-left: 100px;
+}
+
+h1 {
+    padding:20px;
+    text-align: center;
+}
+
+
+#profile{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    filter: grayscale(100%);
+    border:solid;
+    border-color:black;
+    overflow:hidden;
+
+    
+}
+
+.main-section {
+    margin: 100px;
+
+}
+
+.work {
+    padding: 10px;
+}
+
+img {
+    width:100%;
+    height:auto;
+}
+
+
+footer {
+    background-color: black;
+    height: 100px;
+    text-align: center;
+    padding:20px;
+    margin:auto;
+    width:100%;
+    color: white;
+}
+
+.headline {
+    font-size: 36pt;
+}
+
+#about {
+
+    font-size: 20pt;
+}
+
+.links {
+    font-size: 18pt;
+}
+
+#profile2 {
+    width:250px;
+    height: 250px;
+}
+
+#main-container2 {
+    padding-top: 100px;
+    padding-bottom: 150px;
+    padding-right: 150px;
+    padding-left: 150px;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card-img-top {
+    height: 200px;
+    width:200px;
+}
+
+#main-container {
+    padding-top: 20px;
+    padding-bottom: 200px;
+    padding-right: 100px;
+    padding-left: 100px;
+}
