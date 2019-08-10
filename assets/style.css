@@ -1,4 +1,7 @@
 
+@-ms-viewport{
+    width: device-width;
+  }
 
 h2 {
     padding: 100px;
@@ -51,6 +54,8 @@ footer {
     margin:auto;
     width:100%;
     color: white;
+    position: fixed;
+    bottom: 0;
 }
 
 .headline {
