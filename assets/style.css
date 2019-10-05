@@ -85,11 +85,21 @@ footer {
 
 .card-body {
     padding: 20px;
+    
+}
+
+.card {
+    background: #fff;
+    border-radius: 2px;
+    margin: 1rem;
+    position: relative;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    text-align: left;
 }
 
 .card-img-top {
     height: 200px;
-    width:200px;
+    border: 2px;
 }
 
 
